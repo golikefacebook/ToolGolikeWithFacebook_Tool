@@ -6,6 +6,12 @@
 3. tài khoản golike
 4. các tài khoản facebook
 # Hướng dẫn use/setup
+python -m venv .venv
+source .venv/bin/activate
+pip install django
+
+
+
 1. [tải bản python3.11](https://www.python.org/downloads/release/python-3110/)
 2. sau khi cài đặt python3.11 hãy dùng lệnh ```pip install -r requirements.txt```
 3. chạy file ```install_driver.py``` để cài driver dựa theo chrome gốc
